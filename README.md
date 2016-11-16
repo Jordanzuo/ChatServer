@@ -1,0 +1,2 @@
+# ChatServer
+聊天服务器；需要与ChatServerCenter、ChatServerModel配合使用，与ChatServer_Go是不同的项目；
